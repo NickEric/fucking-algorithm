@@ -41,7 +41,7 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 
 **2、建议收藏我的在线网站，每篇文章开头都有对应的力扣题目链接，可以边看文章边刷题**：
 
-Gitbook 地址：https://labuladong.gitbook.io/algo
+Gitbook 地址：https://labuladong.gitee.io/algo/
 
 GitBook 在国内访问速度很慢，且常被攻击，我特意部署了两个镜像站点，大家可根据网络情况自行选择：
 
@@ -181,7 +181,7 @@ Gitee Pages 地址：https://labuladong.gitee.io/algo
 [PaperJets](https://github.com/PaperJets), 
 [qy-yang](https://github.com/qy-yang), 
 [realism0331](https://github.com/realism0331), 
-[SCUhzs](https://github.com/HuangZiSheng001), 
+[SCUhzs](https://github.com/brucecat), 
 [Seaworth](https://github.com/Seaworth), 
 [shazi4399](https://github.com/shazi4399), 
 [ShuozheLi](https://github.com/ShuoZheLi/), 
@@ -190,7 +190,7 @@ Gitee Pages 地址：https://labuladong.gitee.io/algo
 [Tianhao Zhou](https://github.com/tianhaoz95), 
 [timmmGZ](https://github.com/timmmGZ), 
 [tommytim0515](https://github.com/tommytim0515), 
-[upbin](https://github.com/upbin), 
+[ucsk](https://github.com/ucsk), 
 [wadegrc](https://github.com/wadegrc), 
 [walsvid](https://github.com/walsvid), 
 [warmingkkk](https://github.com/warmingkkk), 
